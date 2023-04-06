@@ -1,0 +1,25 @@
+.sticky{
+    width: 15rem;
+    height: 15rem;
+    background-color: blue;
+}
+.relative{
+    width: 15rem;
+    height: 15rem;
+    background-color: red;
+}
+.absolute{
+    width: 15rem;
+    height: 15rem;
+    background-color: black;
+}
+.static{
+    width: 15rem;
+    height: 15rem;
+    background-color:yellow;
+}
+.fixed{
+    width: 15rem;
+    height: 15rem;
+    background-color: purple;
+}

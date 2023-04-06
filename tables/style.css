@@ -1,0 +1,30 @@
+.t{
+    border: 1px solid black;
+    width: 80%;
+    height: 39rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+h3{
+    color: rgb(62, 62, 146);
+}
+td,tr,table{
+    border: 1px solid black;
+    width: 26%;
+    height: 3.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    
+}
+.dee{
+    width: 90%;
+}
+.ree{
+    background-color: aliceblue;
+}
+.tee{
+    vertical-align:bottom;
+    padding-left: 9rem;
+}
